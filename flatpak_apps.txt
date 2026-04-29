@@ -1,0 +1,12 @@
+ca.andyholmes.Valent
+com.github.tchx84.Flatseal
+com.github.tenderowl.frog
+com.obsproject.Studio
+io.dbeaver.DBeaverCommunity
+org.darktable.Darktable
+org.gimp.GIMP
+org.mozilla.Thunderbird
+org.mozilla.firefox
+org.onlyoffice.desktopeditors
+org.qbittorrent.qBittorrent
+org.videolan.VLC
